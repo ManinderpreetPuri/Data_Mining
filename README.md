@@ -30,6 +30,9 @@ There is an argument that not all the given attributes contribute to the wine qu
 answer with both explanation and computational demonstration in your final report.
 
 
+
+
+
 Project 2
 
 Part 1

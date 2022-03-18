@@ -4,14 +4,14 @@ Project 1
 
 In this project, I build a data mining model using decision tree to predict wine quality based on physicochemical tests. 
 
-▪ Dataset
+▪ Dataset:
 part1_data. 
  
 o The first six columns are attributes of wine samples, and the last column is the class label denoting the wine quality. 
 i. The wine sample attributes, including alcohol, density and chlorides, are all numeric values.
 ii. Quality (class label) is of the categorial type where the value can be 5 or 7 denoting wine of average or excellent qualities respectively. 
 
-▪ Requirements. 
+▪ Requirements:
 I answered the following questions:
 a. Data pre-processing 
 There are one or more attributes with missing values.

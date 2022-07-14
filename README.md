@@ -13,6 +13,7 @@ ii. Quality (class label) is of the categorial type where the value can be 5 or 
 
 ▪ Requirements:
 I answered the following questions:
+
 a. Data pre-processing 
 There are one or more attributes with missing values.
 o Write a Python script to read the input CSV file, replace the missing values with the mean value for that attribute, and then export the entire dataset to another 
